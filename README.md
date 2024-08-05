@@ -1,2 +1,3 @@
 # Stats-Preview-Card-Component
-https://statblitz.netlify.app/
+
+Live Preview: [Stats Preview Card Component](https://statblitz.netlify.app/)
